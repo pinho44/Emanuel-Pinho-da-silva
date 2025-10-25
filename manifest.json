@@ -1,0 +1,16 @@
+{
+  "short_name": "Diva Esmalteria",
+  "name": "Diva Esmalteria - Agendamento",
+  "description": "Aplicativo para agendamento de horários na Diva Esmalteria.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0D9488",
+  "background_color": "#F0FDFA"
+}
